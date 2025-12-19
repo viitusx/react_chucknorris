@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+nav {
+  display: flex;
+  gap: 15px;
+  padding: 10px;
+  background: #222;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
