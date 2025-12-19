@@ -6,6 +6,6 @@ O desenvolvimento usa conceitos fundamentais do React, como componentes funciona
 
 Para executar o projeto localmente, é necessário ter o Node.js instalado. Após clonar o repositório, execute o comando `npm install` para instalar as dependências e, em seguida, utilize `npm run dev` para iniciar o servidor de desenvolvimento. O Vite será responsável por compilar e servir a aplicação, abrindo-a automaticamente no navegador.
 
-As APIs utilizadas no projeto são a Chuck Norris API, responsável por fornecer as frases aleatórias, e a LibreTranslate API, utilizada para traduzir o conteúdo do inglês para o português, melhorando a experiência do usuário final. O projeto foi desenvolvido como atividade acadêmica, com foco em boas práticas de desenvolvimento front-end, clareza de código e usabilidade.
+A API utilizada no projeto foi a Chuck Norris API, responsável por fornecer as frases aleatórias. O projeto foi desenvolvido como atividade acadêmica, com foco em boas práticas de desenvolvimento front-end, clareza de código e usabilidade.
 
 Autor: Victor (viitusx)
